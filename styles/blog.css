@@ -3,7 +3,9 @@ div{
     padding: 10px;
     margin: 10px;
 }
-.sky{
-
-    
+img{
+    width: 500px ;
+    height: 400px;
+    margin: 10px;
+    border: 10px tomato;
 }
